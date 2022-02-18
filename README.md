@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/tocoteron%22%3E">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tomoki1590&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/tocoteron%22%3E
+<a href="https://github.com/tocoteron%22%3E">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomoki1590&layout=compact&theme=dracula" />
 </a>
 </p>

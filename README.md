@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Hello I’m Tomok
-- thanks watching for my Github Account
+- 😄 Hello I’m Tomoki
+- thank you for visiting my Github Account
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tomoki1590&count_private=true&show_icons=true&theme=dracula" />
 </a>
